@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "be.elab.blockscolor": {
+      "version": "https://github.com/EloiStree/2024_10_16_upm_blocks_color.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "6627086de7b37d858130bd1a42c6a3fb53333134"
+    },
     "be.techno.charleroixrart": {
       "version": "file:2026_04_07_upm_charleroi_xr_art_on_unity",
       "depth": 0,
