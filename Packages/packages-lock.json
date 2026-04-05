@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "be.techno.charleroixrart": {
+      "version": "file:2026_04_07_upm_charleroi_xr_art_on_unity",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.meta.xr.mrutilitykit": {
       "version": "85.0.0",
       "depth": 1,
